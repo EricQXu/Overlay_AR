@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="1">
+    <Content>
+            <Paragraph Type="Scene Heading" Number="1">
+                  <SceneProperties Color="#000000000000" Title="">
+        <SceneArcBeats />
+      </SceneProperties>
+                  <Text >INT - UCLA FOWLER RM. A139 LECTURE HALL - DAY</Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >Students enter and take their seats.  
+Elias (21) sits next to Emma (20), who pulls out her custom Framework laptop.</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >ELIAS</Text>
+      <Text >  </Text>
+        </Paragraph>
+    <Paragraph Type="Parenthetical">
+                              <Text >(eyes wide)  </Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >Is that a DIY Framework laptop? That’s </Text>
+      <Text Style="Underline">so</Text>
+      <Text > cool!  </Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >EMMA</Text>
+      <Text >  </Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >Yeah! Built it freshman year. It&#x27;s all DIY, even the OS. I&#x27;m running Linux, Windows is such a mess. By the way, I&#x27;m Emma.</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >ELIAS</Text>
+      <Text >  </Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >I&#x27;m Elias; nice to meet you! You know what? Microsoft even missed the smartphone/VR/MR trends! Actually, I’m in a club testing new MR tech. Wanna check it out?   </Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >EMMA</Text>
+      <Text >  </Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >Sure!  </Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >They exchange numbers.  
+Professor Yang enters, starts lecturing. FADE TO:  </Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >PROFESSOR YANG</Text>
+      <Text >  </Text>
+        </Paragraph>
+    <Paragraph Type="Parenthetical">
+                              <Text >(finishing up)  </Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >And that’s how JPSearch works. Okay, that’s all.  </Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >Students pack up.  </Text>
+        </Paragraph>
+    <Paragraph Type="Scene Heading" Number="2">
+                  <SceneProperties Color="#000000000000" Title="">
+        <SceneArcBeats />
+      </SceneProperties>
+                  <Text >INT - ENGINEERING IV BUILDING - EVENING  </Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >A tech convention. Elias tries a sleek MR headset.  </Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >ELIAS (V.O.)</Text>
+      <Text >  </Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >Wow! But why a separate companion device? Might as well carry a foldable phone.  </Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >MANUFACTURER REP</Text>
+      <Text >  </Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >Enjoying it?  </Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >ELIAS</Text>
+      <Text >  </Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >Yeah, this is </Text>
+      <Text Style="Underline">way</Text>
+      <Text > smoother than the others. I&#x27;ll let some of the other people behind me try it out.</Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >(Elias looks behind his shoulders and sees Emma)
+Oh hey, Emma! You gotta try this out. (hands Emma the headset)</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >EMMA</Text>
+      <Text >  </Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >Best experience I’ve seen in this form factor.  </Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >ELIAS</Text>
+      <Text >  </Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >Wanna check out the rest, then grab lunch?  </Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >EMMA</Text>
+      <Text >  </Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >Yeah, sure.  </Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >They explore the convention together. </Text>
+        </Paragraph>
+    <Paragraph Type="Scene Heading" Number="3">
+                  <SceneProperties Color="#000000000000" Title="">
+        <SceneArcBeats />
+      </SceneProperties>
+                  <Text >INT - CAVA RESTAURANT - NOON (12 P.M.)</Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >Elias and Emma goes up to the counter and orders their lunch. </Text>
+        </Paragraph>
+    <Paragraph Type="Scene Heading" Number="4">
+                  <SceneProperties Color="#000000000000" Title="">
+        <SceneArcBeats />
+      </SceneProperties>
+                  <Text >EXT - CAVA RESTAURANT - CONTINUOUS</Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >They take a seat and sit together across the table chatting.</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >EMMA</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >So, what do you think?</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >ELIAS</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >I think the devices on show were great, but it still feels like a great compromise compared to smartphones.</Text>
+        </Paragraph>
+    <Paragraph Type="Parenthetical">
+                              <Text >(pauses to eat)</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >You know, I think someone could make a breakthrough. First, their OS is highly inefficient. They&#x27;re just relying on hardware to carry them. But, even the hardware ain&#x27;t that efficient. Have you seen the performance per watt of the Snapdragon 30 Elite?</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >EMMA</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >I actually have; it&#x27;s pretty bad. No wonder their companion device is so large. I&#x27;d just buy a phone and maybe a smartwatch for convenience at that point. In fact, I could even build something better. These huge corporations really have gotten too comfortable.</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >ELIAS</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >You mean...</Text>
+      <Text Style="Italic">we</Text>
+      <Text > can build something better? I write the OS, you do the hardware.</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >EMMA</Text>
+        </Paragraph>
+    <Paragraph Type="Parenthetical">
+                              <Text >(Says in surprised tone) Wait, really?</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >ELIAS</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >Why not? Do you want to come over to my apartment tonight? I&#x27;m working on a prototype and I want to show you it on my Meta Quest. We can later adapt the drivers to other devices with a more compact form factor.</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >EMMA</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >Yeah, I&#x27;m down. I&#x27;m free around 7:30.</Text>
+        </Paragraph>
+    <Paragraph Type="Scene Heading" Number="5">
+                  <SceneProperties Color="#000000000000" Title="">
+        <SceneArcBeats />
+      </SceneProperties>
+                  <Text >EXT - ELIAS&#x27; APARTMENT - NIGHT (7:30 PM)</Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >Elias welcomes Emma in the door. Elias opens compiles his OS, plugging in his Quest VR, ready to show Emma. </Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >ELIAS</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >Here, try this. To put this in perspective, this is the Meta Quest 2, which is 7 year-old hardware.</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >EMMA</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >Elias, this is nuts! How&#x27;d you do this? The speed is just...incredible!</Text>
+        </Paragraph>
+    <Paragraph Type="Parenthetical">
+                              <Text >(takes off the headset)</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >ELIAS</Text>
+        </Paragraph>
+    <Paragraph Type="Parenthetical">
+                              <Text >(laughs) Thanks, I mean it&#x27;s still pretty elementarsy at this stage.</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >EMMA</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >Imagine if you paired this with the RISC-V chip that I&#x27;m developing right now! I think we should maybe pitch our idea to the investors!</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >ELIAS</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >Yeah, we should. Do you wanna work on this over the weekend at Espressoteric? It&#x27;s a coffee shop near campus.</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >EMMA</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >Sure!</Text>
+        </Paragraph>
+    <Paragraph Type="Scene Heading" Number="6">
+                  <SceneProperties Color="#000000000000" Title="">
+        <SceneArcBeats />
+      </SceneProperties>
+                  <Text >INT - ESPRESSOTERIC CAFE - NIGHT</Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >WIDE SHOT: The warm glow of the coffee shop’s dim lighting reflects off metallic coffee machines. A few patrons sit at tables, working on laptops or chatting in hushed voices.</Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >MEDIUM SHOT: Elias and Emma sit at a corner table, their laptops open, cups of coffee half-empty beside them. Emma sketches a circuit diagram on a tablet while Elias types furiously.</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >EMMA</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >You know, the more I think about it, the more I believe we can completely ditch the companion device.</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >ELIAS</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >Yeah, but then we’d have to re-engineer the entire power system. Can we manage that with current battery tech?</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >EMMA</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >We could if we optimize the silicon. The RISC-V chip I’m working on is twice as efficient as the Snapdragon 30 Elite. If we shrink the board and distribute heat properly, we can integrate it inside the glasses.</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >ELIAS</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >That… that actually might work.</Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >Emma grins. Elias smirks back. The two clink coffee cups together before diving back into their work.</Text>
+        </Paragraph>
+    <Paragraph Type="Scene Heading" Number="7">
+                  <SceneProperties Color="#000000000000" Title="">
+        <SceneArcBeats />
+      </SceneProperties>
+                  <Text >MONTAGE - ELIAS AND EMMA WORKING</Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >— Elias, coding deep into the night, his screen flashing lines of assembly language.
+— Emma, soldering a delicate circuit, adjusting it under a magnifying glass.
+— Elias helping Emma debug a bootloader while she stifles a yawn.
+— Late-night Uber Eats deliveries piling up on their desk.
+— A 3D printer steadily forming the first frame of their prototype.</Text>
+        </Paragraph>
+    <Paragraph Type="Scene Heading" Number="8">
+                  <SceneProperties Color="#000000000000" Title="">
+        <SceneArcBeats />
+      </SceneProperties>
+                  <Text >INT - OVERLAY_AR GARAGE OFFICE - EVENING</Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >A modest workspace cluttered with electronic components, half-assembled prototypes, and multiple monitors displaying code and simulations. A neon sign in the background reads “Overlay_AR.”</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >EMMA</Text>
+        </Paragraph>
+    <Paragraph Type="Parenthetical">
+                              <Text >(pulling out a sleek prototype)</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >Ready for the first full test?</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >ELIAS</Text>
+        </Paragraph>
+    <Paragraph Type="Parenthetical">
+                              <Text >(as he boots up the software)</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >Let’s do it.</Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >Emma places the glasses on, and Elias taps a command into his keyboard. The lenses flash to life— a perfect augmented overlay appears in her field of view. She swipes her hand in the air, and an interface smoothly reacts.</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >EMMA</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >It’s... perfect.</Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >Elias exhales, relieved. They exchange an exhilarated glance.</Text>
+        </Paragraph>
+    <Paragraph Type="Scene Heading" Number="9">
+                  <SceneProperties Color="#000000000000" Title="">
+        <SceneArcBeats />
+      </SceneProperties>
+                  <Text >INT - INVESTOR MEETING ROOM - NIGHT</Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >WIDE SHOT: A sleek, modern boardroom. A long table surrounded by sharply dressed investors, all focused on Elias and Emma.</Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >Trevor Daniels sits at the head of the table, his designer suit pristine, his expression unreadable.</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >TREVOR</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >This is impressive tech. But if you want serious funding, we need to ensure it aligns with our vision for the market.</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >ELIAS</Text>
+        </Paragraph>
+    <Paragraph Type="Parenthetical">
+                              <Text >(skeptical)</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >And what exactly is your vision?</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >TREVOR</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >We mass-produce. Cheap components, high margins. Subscription-based software model. Lock the users into our ecosystem.</Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >Emma and Elias exchange glances. Emma clenches her jaw.</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >EMMA</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >That’s not why we built this.</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >TREVOR</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >You built this to change the world. I’m here to make sure it actually gets to the world. Big difference.</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >ELIAS</Text>
+        </Paragraph>
+    <Paragraph Type="Parenthetical">
+                              <Text >(taking a deep breath)</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >We’ll need to discuss internally before committing.</Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >Trevor smirks, sensing hesitation.</Text>
+        </Paragraph>
+    <Paragraph Type="Scene Heading" Number="10">
+                  <SceneProperties Color="#000000000000" Title="">
+        <SceneArcBeats />
+      </SceneProperties>
+                  <Text >INT - OVERLAY_AR GARAGE OFFICE - NIGHT</Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >A tense silence hangs between Elias and Emma.</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >EMMA</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >You’re not actually considering his offer, right?</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >ELIAS</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >I don’t know, Emma. He has real money, real reach. We could launch this at a scale we’d never manage alone.</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >EMMA</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >At what cost? Our integrity? Our vision?</Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >Elias rubs his temples, conflicted.</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >EMMA</Text>
+        </Paragraph>
+    <Paragraph Type="Parenthetical">
+                              <Text >(softly)</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >Elias. This is ours. No one else gets to dictate what we do with it.</Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >He looks at her, understanding dawning.</Text>
+        </Paragraph>
+    <Paragraph Type="Scene Heading" Number="11">
+                  <SceneProperties Color="#000000000000" Title="">
+        <SceneArcBeats />
+      </SceneProperties>
+                  <Text >INT - TECH CONFERENCE - MAIN STAGE - NIGHT</Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >A massive, futuristic stage with LED-lit panels and a live audience. The moment of truth.</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >ELIAS</Text>
+        </Paragraph>
+    <Paragraph Type="Parenthetical">
+                              <Text >(speaking to the crowd)</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >We built something revolutionary. But we won’t sell out innovation for profit. Overlay_AR is staying independent.</Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >Suddenly, the screen behind them glitches. The AR glasses flicker wildly. Gasps from the audience.</Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >Emma&#x27;s eyes widen. &quot;Sabotage!&quot;, Emma murmurs to Elias. Quick thinking, Elias drops to his laptop, typing frantically. Lines of code scroll rapidly. Emma steadies the glasses, overriding the interference. Within seconds, the AR display stabilizes. The audience erupts into applause.</Text>
+        </Paragraph>
+    <Paragraph Type="Scene Heading" Number="12">
+                  <SceneProperties Color="#000000000000" Title="">
+        <SceneArcBeats />
+      </SceneProperties>
+                  <Text >INT - BOARDROOM - FINAL SHOWDOWN</Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >Trevor smirks at the chaos of the failed demo, preparing to capitalize on their failure. But then—</Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >A leaked email thread flashes onto the screen behind him, proving Trevor orchestrated the sabotage. In a sudden shift, the room turns against him...murmurs of outrage plastered</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >TREVOR</Text>
+        </Paragraph>
+    <Paragraph Type="Parenthetical">
+                              <Text >(eyes narrowing)</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >This is ridiculous—</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >ELIAS</Text>
+        </Paragraph>
+    <Paragraph Type="Parenthetical">
+                              <Text >(firmly, confidently)</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >Your tactics don’t work here. We’re done.</Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >Trevor glares but knows he’s lost.</Text>
+        </Paragraph>
+    <Paragraph Type="Scene Heading" Number="13">
+                  <SceneProperties Color="#000000000000" Title="">
+        <SceneArcBeats />
+      </SceneProperties>
+                  <Text >EXT - SAWTELLE BOULEVARD - EVENING</Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >Emma and Elias stroll down the bustling street, past ramen shops and neon-lit storefronts. The tension has melted away—replaced with quiet excitement.</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >EMMA</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >So what’s next for Overlay_AR?</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >ELIAS</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >We build. Our way.</Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >Emma smiles, nudging his arm.</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >EMMA</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >And maybe we take a break to eat first?</Text>
+        </Paragraph>
+    <Paragraph Type="Character">
+                              <Text >ELIAS</Text>
+        </Paragraph>
+    <Paragraph Type="Parenthetical">
+                              <Text >(laughs)</Text>
+        </Paragraph>
+    <Paragraph Type="Dialogue">
+                              <Text >Yeah, that too.</Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >They walk off, their fingers brushing together, the city lights glowing around them.</Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >FADE TO BLACK.</Text>
+        </Paragraph>
+
+    </Content>
+      <TitlePage>
+    <Content>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center">
+        <Text>**_OVERLAY AR_**</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center">
+        <Text></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center">
+        <Text></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center">
+        <Text></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center">
+        <Text></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center">
+        <Text>Written by: Eric Xu</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center">
+        <Text></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center">
+        <Text></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center">
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+      <Paragraph>
+        <Text>Date: 2/20/2025</Text>
+      </Paragraph>
+      <Paragraph>
+        <Text></Text>
+      </Paragraph>
+    </Content>
+  </TitlePage>
+
+    <Revisions ActiveSet="1" Location="7.75" RevisionsShown="Active" ShowAllMarks="No" ShowAllSets="No">
+                <Revision Color="#00008181EFEF" FullRevision="No" ID="1" Mark="*" Name="revision.0" PageColor="#FFFFFFFFFFFF" Style=""/>
+        <Revision Color="#FEFE8383DFDF" FullRevision="No" ID="2" Mark="**" Name="First" PageColor="#FFFFFFFFFFFF" Style=""/>
+        <Revision Color="#FBFBC8C82D2D" FullRevision="No" ID="3" Mark="+" Name="Second" PageColor="#FFFFFFFFFFFF" Style=""/>
+        <Revision Color="#0000DFDF7979" FullRevision="No" ID="4" Mark="++" Name="Third" PageColor="#FFFFFFFFFFFF" Style=""/>
+        <Revision Color="#D7D794940F0F" FullRevision="No" ID="5" Mark="@" Name="Fourth" PageColor="#FFFFFFFFFFFF" Style=""/>
+        <Revision Color="#767664645656" FullRevision="No" ID="6" Mark="@@" Name="Fifth" PageColor="#FFFFFFFFFFFF" Style=""/>
+        <Revision Color="#ECECB8B89898" FullRevision="No" ID="7" Mark="#" Name="Sixth" PageColor="#FFFFFFFFFFFF" Style=""/>
+        <Revision Color="#ECEC5A5A9696" FullRevision="No" ID="8" Mark="##" Name="Seventh" PageColor="#FFFFFFFFFFFF" Style=""/>
+
+    </Revisions>
+    <TagData>
+        <TagCategories>
+                  <TagCategory Color="#000000000000" Id="8e5e75c2-713b-47df-a75f-f12648b98ded" Name="Synopsis" Number="1" Style="Bold"/>      <TagCategory Color="#0707BDBDEBEB" Id="01fc9642-84ff-4366-b37c-a3068dee57e8" Name="Cast Members" Number="2" Style="Bold"/>      <TagCategory Color="#ECEC00008C8C" Id="028a4e2b-b507-4d09-88ab-90e3edae9071" Name="Background Actors" Number="3" Style="Bold"/>      <TagCategory Color="#94AA11150000" Id="0377dbe6-77a3-41af-bda8-86eb2468fdbf" Name="Stunts" Number="4" Style="Bold"/>      <TagCategory Color="#0C0CE0E0E3E3" Id="04721a56-f54b-49c8-80ad-d53887d6b851" Name="Vehicles" Number="5" Style="Bold"/>      <TagCategory Color="#FFFFA1A10D0D" Id="05c556eb-6bc1-4a3a-b09f-f8b5ba1b6afa" Name="Props" Number="6" Style="Bold"/>      <TagCategory Color="#94AA11150000" Id="47b02ff1-5161-4137-b736-f36eebba7643" Name="Camera" Number="7" Style="Bold"/>      <TagCategory Color="#94AA11150000" Id="069e18b8-2109-4f3d-94e7-d802027a60a8" Name="Special Effects" Number="8" Style="Bold"/>      <TagCategory Color="#FEFE8383DFDF" Id="0726fa85-1e65-4ab8-87de-bf21d09b01f0" Name="Wardrobe" Number="9" Style="Bold"/>      <TagCategory Color="#0000DFDF7979" Id="08ae1eef-32ce-415f-9a9b-0982d2453ec4" Name="Makeup/Hair" Number="10" Style="Bold"/>      <TagCategory Color="#FBFBC8C82D2D" Id="09cb0d1c-ce01-4f22-bb64-b5f2e6c491c6" Name="Animals" Number="11" Style="Bold"/>      <TagCategory Color="#FBFBC8C82D2D" Id="0ae40617-cc7c-48e6-ae2b-5aaecc09986f" Name="Animal Wrangler" Number="12" Style="Bold"/>      <TagCategory Color="#000000000000" Id="0b0b44c9-aa4b-4c40-88b1-d94472ad7a26" Name="Music" Number="13" Style="Bold"/>      <TagCategory Color="#94AA11150000" Id="0ce7d308-096d-4603-8fe8-349f72cd89ff" Name="Sound" Number="15" Style="Bold"/>      <TagCategory Color="#94AA11150000" Id="c86eae40-3b01-41c3-a7de-6859e6ec971d" Name="Art Department" Number="16" Style="Bold"/>      <TagCategory Color="#94AA11150000" Id="0debb71b-5743-4c53-80cc-e17e841ce645" Name="Set Dressing" Number="17" Style="Bold"/>      <TagCategory Color="#94AA11150000" Id="0e7a8fc5-5441-4bad-a9bf-5ddd3fe51c69" Name="Greenery" Number="18" Style="Bold"/>      <TagCategory Color="#94AA11150000" Id="0ff5cda4-4d43-4cfe-940f-91380c46fdad" Name="Special Equipment" Number="19" Style="Bold"/>      <TagCategory Color="#94AA11150000" Id="109d0eaa-0334-4823-ac0c-b44d3f209dc4" Name="Security" Number="20" Style="Bold"/>      <TagCategory Color="#94AA11150000" Id="1179a4b1-70ee-4011-b4a2-809a0af09e92" Name="Additional Labor" Number="21" Style="Bold"/>      <TagCategory Color="#B5B52020DADA" Id="12ab0932-e3b9-4b4a-bcd0-3da1b4e61d5e" Name="Visual Effects" Number="23" Style="Bold"/>      <TagCategory Color="#94AA11150000" Id="135cc9d1-c4d5-4d00-83d9-571f584ea9cd" Name="Mechanical Effects" Number="24" Style="Bold"/>      <TagCategory Color="#94AA11150000" Id="ce04f547-f7ee-40c9-ab66-d95a0c98034e" Name="Miscellaneous" Number="25" Style="Bold"/>      <TagCategory Color="#94AA11150000" Id="15b6f4fd-4e74-4ad8-9971-b239d88c2997" Name="Notes" Number="26" Style="Bold"/>      <TagCategory Color="#94AA11150000" Id="63c140da-ef2b-491a-b416-b46f461abb89" Name="Script Day" Number="27" Style="Bold"/>      <TagCategory Color="#94AA11150000" Id="849f1ebf-5507-4f33-bff6-3a5b4d73be14" Name="Unit" Number="28" Style="Bold"/>      <TagCategory Color="#94AA11150000" Id="70877d87-30ef-45b6-be46-c6fa94b83a71" Name="Sequence" Number="29" Style="Bold"/>      <TagCategory Color="#94AA11150000" Id="c5e89e4d-f83e-4c28-950c-92a63f1b5f26" Name="Location" Number="30" Style="Bold"/>      <TagCategory Color="#94AA11150000" Id="216f33fd-fc42-4269-be01-b05b18f815a0" Name="Comments" Number="31" Style="Bold"/>
+        </TagCategories>
+        <TagDefinitions>
+            
+        </TagDefinitions>
+        <Tags>
+            
+        </Tags>
+    </TagData>
+    <PageLayout BackgroundColor="#FFFFFFFFFFFF" BottomMargin="45" BreakDialogueAndActionAtSentences="Yes" DocumentLeading="Normal" FooterMargin="36" ForegroundColor="#000000000000" HeaderMargin="29" InvisiblesColor="#808080808080" TopMargin="0" UsesSmartQuotes="Yes">
+        <PageSize Height="8.500000" Width="11.000000"/>
+    </PageLayout>
+    <ElementSettings Type="Lyrics">
+        <FontSpec  Style="Italic"/>
+        <ParagraphSpec Alignment="Center"/>
+        <Behavior PaginateAs="Action" ReturnKey="Action" />
+    </ElementSettings>
+    <ScriptNotes>
+        
+    </ScriptNotes>
+</FinalDraft>
