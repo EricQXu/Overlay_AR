@@ -65,7 +65,7 @@ They explore the convention together.
 Elias and Emma goes up to the counter and orders their lunch. 
 
 .EXT - CAVA RESTAURANT - CONTINUOUS
-They take a seat and sit together across the table chatting.
+They take a seat and sit together across the table chatting. 
 
 @**EMMA**
 So, what do you think?
@@ -101,7 +101,7 @@ Elias, this is nuts! How'd you do this? The speed is just...incredible!
 (takes off the headset)
 
 @**ELIAS**
-(laughs) Thanks, I mean it's still pretty elementarsy at this stage.
+(laughs) Thanks, I mean it's still pretty elementary at this stage.
 
 @**EMMA**
 Imagine if you paired this with the RISC-V chip that I'm developing right now! I think we should maybe pitch our idea to the investors!
@@ -115,6 +115,8 @@ Sure!
 .INT - ESPRESSOTERIC CAFE - NIGHT
 
 WIDE SHOT: The warm glow of the coffee shop’s dim lighting reflects off metallic coffee machines. A few patrons sit at tables, working on laptops or chatting in hushed voices.
+
+**CUE MUSIC**: "Sẽnor Mouse" by Gordon Goodwin's Big Phat Band
 
 MEDIUM SHOT: Elias and Emma sit at a corner table, their laptops open, cups of coffee half-empty beside them. Emma sketches a circuit diagram on a tablet while Elias types furiously.
 
@@ -130,7 +132,7 @@ We could if we optimize the silicon. The RISC-V chip I’m working on is twice a
 @**ELIAS**
 That… that actually might work.
 
-Emma grins. Elias smirks back. The two clink coffee cups together before diving back into their work.
+Emma grins. Elias smirks back. The two clink coffee cups together before diving back into their work. 
 
 .MONTAGE - ELIAS AND EMMA WORKING
 
@@ -138,7 +140,7 @@ Emma grins. Elias smirks back. The two clink coffee cups together before diving 
 — Emma, soldering a delicate circuit, adjusting it under a magnifying glass.
 — Elias helping Emma debug a bootloader while she stifles a yawn.
 — Late-night Uber Eats deliveries piling up on their desk.
-— A 3D printer steadily forming the first frame of their prototype.
+— A 3D printer steadily forming the first frame of their prototype. **(END MUSIC)**
 
 .INT - OVERLAY_AR GARAGE OFFICE - EVENING
 
@@ -155,9 +157,9 @@ Let’s do it.
 Emma places the glasses on, and Elias taps a command into his keyboard. The lenses flash to life— a perfect augmented overlay appears in her field of view. She swipes her hand in the air, and an interface smoothly reacts.
 
 @**EMMA**
-It’s... perfect.
+It’s... perfect. **(CUE MUSIC: Bob-Omb Battlefield by 8-bit Big Band)**
 
-Elias exhales, relieved. They exchange an exhilarated glance.
+Elias exhales, relieved. They exchange an exhilarated glance. **(END MUSIC)**
 
 .INT - INVESTOR MEETING ROOM - NIGHT
 
@@ -218,9 +220,13 @@ A massive, futuristic stage with LED-lit panels and a live audience. The moment 
 (speaking to the crowd)
 We built something revolutionary. But we won’t sell out innovation for profit. Overlay_AR is staying independent.
 
-Suddenly, the screen behind them glitches. The AR glasses flicker wildly. Gasps from the audience.
+Suddenly, the screen behind them glitches. 
 
-Emma's eyes widen. "Sabotage!", Emma murmurs to Elias. Quick thinking, Elias drops to his laptop, typing frantically. Lines of code scroll rapidly. Emma steadies the glasses, overriding the interference. Within seconds, the AR display stabilizes. The audience erupts into applause.
+**CUE MUSIC:** "Prelude and Action" by Kevin MacLeod
+
+The AR glasses flicker wildly. Gasps from the audience.
+
+Emma's eyes widen. "Sabotage!", Emma murmurs to Elias. Quick thinking, Elias drops to his laptop, typing frantically. Lines of code scroll rapidly. **(END MUSIC)** Emma steadies the glasses, overriding the interference. Within seconds, the AR display stabilizes. The audience erupts into applause.
 
 .INT - BOARDROOM - FINAL SHOWDOWN
 
@@ -239,7 +245,7 @@ Your tactics don’t work here. We’re done.
 Trevor glares but knows he’s lost.
 
 .EXT - SAWTELLE BOULEVARD - EVENING
-
+**CUE MUSIC:** "September" by Earth, Wind & Fire
 Emma and Elias stroll down the bustling street, past ramen shops and neon-lit storefronts. The tension has melted away—replaced with quiet excitement.
 
 @**EMMA**
@@ -278,4 +284,6 @@ FADE TO BLACK.
 
 
 
-/* If you're seeing this, you can remove the following stuff - BEAT: {"Review Ranges":[],"Window Width":2548,"Caret Position":1257,"Heading UUIDs":[{"string":".INT - UCLA FOWLER RM. A139 LECTURE HALL - DAY","uuid":"360692E3-1FF9-45A5-9FE5-44C0322CF0B1"},{"string":".INT - ENGINEERING IV BUILDING - EVENING  ","uuid":"F2537B0F-0770-474A-85BB-F932DBB4BD4D"},{"string":".INT - CAVA RESTAURANT - NOON (12 P.M.)","uuid":"3D9218CF-EE93-4023-B2B6-D586BCE0E3DD"},{"string":".EXT - CAVA RESTAURANT - CONTINUOUS","uuid":"2083A4D8-EE7E-4CCC-B0C0-52D61E9A1987"},{"string":".EXT - ELIAS' APARTMENT - NIGHT (7:30 PM)","uuid":"4A2931E5-5947-4F90-94FC-73C08BDFC3E0"},{"string":".INT - ESPRESSOTERIC CAFE - NIGHT","uuid":"40DF8266-DBED-4992-8FB0-46ACACF6D9FE"},{"string":".MONTAGE - ELIAS AND EMMA WORKING","uuid":"A2D3B877-D6C1-4444-96CF-6F9B62D9C719"},{"string":".INT - OVERLAY_AR GARAGE OFFICE - EVENING","uuid":"64A732C3-B186-434B-B491-3B1340F574C9"},{"string":".INT - INVESTOR MEETING ROOM - NIGHT","uuid":"AB6DD80E-4615-46D5-BFF9-5611C9144EA3"},{"string":".INT - OVERLAY_AR GARAGE OFFICE - NIGHT","uuid":"DFD480F6-0653-4345-BC4F-B730A57372D7"},{"string":".INT - TECH CONFERENCE - MAIN STAGE - NIGHT","uuid":"F3F26BAB-F426-4408-A269-FCAFC7B1381A"},{"string":".INT - BOARDROOM - FINAL SHOWDOWN","uuid":"56B3B8C7-A337-4486-B5A3-C693B2686173"},{"string":".EXT - SAWTELLE BOULEVARD - EVENING","uuid":"E60A4C30-7162-48A5-8C5E-6DE7FF3738C7"}],"Sidebar Visible":false,"Revision":{"Removed":[],"RemovalSuggestion":[],"Addition":[]},"Active Plugins":[],"Revision Level":0,"Window Height":1389} END_BEAT */
+
+
+/* If you're seeing this, you can remove the following stuff - BEAT: {"Review Ranges":[],"Window Width":2548,"Caret Position":132,"Heading UUIDs":[{"string":".INT - UCLA FOWLER RM. A139 LECTURE HALL - DAY","uuid":"360692E3-1FF9-45A5-9FE5-44C0322CF0B1"},{"string":".INT - ENGINEERING IV BUILDING - EVENING  ","uuid":"F2537B0F-0770-474A-85BB-F932DBB4BD4D"},{"string":".INT - CAVA RESTAURANT - NOON (12 P.M.)","uuid":"3D9218CF-EE93-4023-B2B6-D586BCE0E3DD"},{"string":".EXT - CAVA RESTAURANT - CONTINUOUS","uuid":"2083A4D8-EE7E-4CCC-B0C0-52D61E9A1987"},{"string":".EXT - ELIAS' APARTMENT - NIGHT (7:30 PM)","uuid":"4A2931E5-5947-4F90-94FC-73C08BDFC3E0"},{"string":".INT - ESPRESSOTERIC CAFE - NIGHT","uuid":"40DF8266-DBED-4992-8FB0-46ACACF6D9FE"},{"string":".MONTAGE - ELIAS AND EMMA WORKING","uuid":"A2D3B877-D6C1-4444-96CF-6F9B62D9C719"},{"string":".INT - OVERLAY_AR GARAGE OFFICE - EVENING","uuid":"64A732C3-B186-434B-B491-3B1340F574C9"},{"string":".INT - INVESTOR MEETING ROOM - NIGHT","uuid":"AB6DD80E-4615-46D5-BFF9-5611C9144EA3"},{"string":".INT - OVERLAY_AR GARAGE OFFICE - NIGHT","uuid":"DFD480F6-0653-4345-BC4F-B730A57372D7"},{"string":".INT - TECH CONFERENCE - MAIN STAGE - NIGHT","uuid":"F3F26BAB-F426-4408-A269-FCAFC7B1381A"},{"string":".INT - BOARDROOM - FINAL SHOWDOWN","uuid":"56B3B8C7-A337-4486-B5A3-C693B2686173"},{"string":".EXT - SAWTELLE BOULEVARD - EVENING","uuid":"E60A4C30-7162-48A5-8C5E-6DE7FF3738C7"}],"Sidebar Visible":false,"Revision":{"Removed":[],"RemovalSuggestion":[],"Addition":[]},"Active Plugins":[],"Revision Level":0,"Window Height":1389} END_BEAT */

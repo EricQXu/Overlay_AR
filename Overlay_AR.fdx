@@ -137,7 +137,7 @@ Oh hey, Emma! You gotta try this out. (hands Emma the headset)</Text>
                   <Text >EXT - CAVA RESTAURANT - CONTINUOUS</Text>
         </Paragraph>
     <Paragraph Type="Action">
-                              <Text >They take a seat and sit together across the table chatting.</Text>
+                              <Text >They take a seat and sit together across the table chatting. </Text>
         </Paragraph>
     <Paragraph Type="Character">
                               <Text >EMMA</Text>
@@ -217,7 +217,7 @@ Oh hey, Emma! You gotta try this out. (hands Emma the headset)</Text>
                               <Text >ELIAS</Text>
         </Paragraph>
     <Paragraph Type="Parenthetical">
-                              <Text >(laughs) Thanks, I mean it&#x27;s still pretty elementarsy at this stage.</Text>
+                              <Text >(laughs) Thanks, I mean it&#x27;s still pretty elementary at this stage.</Text>
         </Paragraph>
     <Paragraph Type="Character">
                               <Text >EMMA</Text>
@@ -247,6 +247,10 @@ Oh hey, Emma! You gotta try this out. (hands Emma the headset)</Text>
                               <Text >WIDE SHOT: The warm glow of the coffee shop’s dim lighting reflects off metallic coffee machines. A few patrons sit at tables, working on laptops or chatting in hushed voices.</Text>
         </Paragraph>
     <Paragraph Type="Action">
+                              <Text Style="Bold">CUE MUSIC</Text>
+      <Text >: &quot;Sẽnor Mouse&quot; by Gordon Goodwin&#x27;s Big Phat Band</Text>
+        </Paragraph>
+    <Paragraph Type="Action">
                               <Text >MEDIUM SHOT: Elias and Emma sit at a corner table, their laptops open, cups of coffee half-empty beside them. Emma sketches a circuit diagram on a tablet while Elias types furiously.</Text>
         </Paragraph>
     <Paragraph Type="Character">
@@ -274,7 +278,7 @@ Oh hey, Emma! You gotta try this out. (hands Emma the headset)</Text>
                               <Text >That… that actually might work.</Text>
         </Paragraph>
     <Paragraph Type="Action">
-                              <Text >Emma grins. Elias smirks back. The two clink coffee cups together before diving back into their work.</Text>
+                              <Text >Emma grins. Elias smirks back. The two clink coffee cups together before diving back into their work. </Text>
         </Paragraph>
     <Paragraph Type="Scene Heading" Number="7">
                   <SceneProperties Color="#000000000000" Title="">
@@ -287,7 +291,8 @@ Oh hey, Emma! You gotta try this out. (hands Emma the headset)</Text>
 — Emma, soldering a delicate circuit, adjusting it under a magnifying glass.
 — Elias helping Emma debug a bootloader while she stifles a yawn.
 — Late-night Uber Eats deliveries piling up on their desk.
-— A 3D printer steadily forming the first frame of their prototype.</Text>
+— A 3D printer steadily forming the first frame of their prototype. </Text>
+      <Text Style="Bold">(END MUSIC)</Text>
         </Paragraph>
     <Paragraph Type="Scene Heading" Number="8">
                   <SceneProperties Color="#000000000000" Title="">
@@ -323,10 +328,12 @@ Oh hey, Emma! You gotta try this out. (hands Emma the headset)</Text>
                               <Text >EMMA</Text>
         </Paragraph>
     <Paragraph Type="Dialogue">
-                              <Text >It’s... perfect.</Text>
+                              <Text >It’s... perfect. </Text>
+      <Text Style="Bold">(CUE MUSIC: Bob-Omb Battlefield by 8-bit Big Band)</Text>
         </Paragraph>
     <Paragraph Type="Action">
-                              <Text >Elias exhales, relieved. They exchange an exhilarated glance.</Text>
+                              <Text >Elias exhales, relieved. They exchange an exhilarated glance. </Text>
+      <Text Style="Bold">(END MUSIC)</Text>
         </Paragraph>
     <Paragraph Type="Scene Heading" Number="9">
                   <SceneProperties Color="#000000000000" Title="">
@@ -449,10 +456,19 @@ Oh hey, Emma! You gotta try this out. (hands Emma the headset)</Text>
                               <Text >We built something revolutionary. But we won’t sell out innovation for profit. Overlay_AR is staying independent.</Text>
         </Paragraph>
     <Paragraph Type="Action">
-                              <Text >Suddenly, the screen behind them glitches. The AR glasses flicker wildly. Gasps from the audience.</Text>
+                              <Text >Suddenly, the screen behind them glitches. </Text>
         </Paragraph>
     <Paragraph Type="Action">
-                              <Text >Emma&#x27;s eyes widen. &quot;Sabotage!&quot;, Emma murmurs to Elias. Quick thinking, Elias drops to his laptop, typing frantically. Lines of code scroll rapidly. Emma steadies the glasses, overriding the interference. Within seconds, the AR display stabilizes. The audience erupts into applause.</Text>
+                              <Text Style="Bold">CUE MUSIC:</Text>
+      <Text > &quot;Prelude and Action&quot; by Kevin MacLeod</Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >The AR glasses flicker wildly. Gasps from the audience.</Text>
+        </Paragraph>
+    <Paragraph Type="Action">
+                              <Text >Emma&#x27;s eyes widen. &quot;Sabotage!&quot;, Emma murmurs to Elias. Quick thinking, Elias drops to his laptop, typing frantically. Lines of code scroll rapidly. </Text>
+      <Text Style="Bold">(END MUSIC)</Text>
+      <Text > Emma steadies the glasses, overriding the interference. Within seconds, the AR display stabilizes. The audience erupts into applause.</Text>
         </Paragraph>
     <Paragraph Type="Scene Heading" Number="12">
                   <SceneProperties Color="#000000000000" Title="">
@@ -494,7 +510,9 @@ Oh hey, Emma! You gotta try this out. (hands Emma the headset)</Text>
                   <Text >EXT - SAWTELLE BOULEVARD - EVENING</Text>
         </Paragraph>
     <Paragraph Type="Action">
-                              <Text >Emma and Elias stroll down the bustling street, past ramen shops and neon-lit storefronts. The tension has melted away—replaced with quiet excitement.</Text>
+                              <Text Style="Bold">CUE MUSIC:</Text>
+      <Text > &quot;September&quot; by Earth, Wind &amp; Fire
+Emma and Elias stroll down the bustling street, past ramen shops and neon-lit storefronts. The tension has melted away—replaced with quiet excitement.</Text>
         </Paragraph>
     <Paragraph Type="Character">
                               <Text >EMMA</Text>
