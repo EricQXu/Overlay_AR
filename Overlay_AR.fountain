@@ -17,16 +17,10 @@ Elias (21) sits next to Emma (20), who pulls out her custom Framework laptop.
 Is that a DIY Framework laptop? That’s _so_ cool!  
 
 @**EMMA**  
-Yeah! Built it freshman year. It's all DIY, even the OS. I'm running Linux, Windows is such a mess.
+Yeah! Built it freshman year. It's all DIY, even the OS. I'm running Linux, Windows is such a mess. By the way, I'm Emma.
 
 @**ELIAS**  
-That's so real. Plus, they've missed the phone, VR, and MR trends.
-
-@**EMMA**  
-Not surprising consider how needlessly complex Windows is.
-
-@**ELIAS**  
-Actually, I’m in a club testing new MR tech. Wanna check it out?  
+I'm Elias; nice to meet you! You know what? Microsoft even missed the smartphone/VR/MR trends! Actually, I’m in a club testing new MR tech. Wanna check it out?   
 
 @**EMMA**  
 Sure!  
@@ -40,15 +34,6 @@ And that’s how JPSearch works. Okay, that’s all.
 
 Students pack up.  
 
-@**ELIAS**  
-Hey, I never caught your name—  
-
-@**EMMA**  
-Emma. You?  
-
-@**ELIAS**  
-Elias.  
-
 .INT - ENGINEERING IV BUILDING - EVENING  
 
 A tech convention. Elias tries a sleek MR headset.  
@@ -60,7 +45,7 @@ Wow! But why a separate companion device? Might as well carry a foldable phone.
 Enjoying it?  
 
 @**ELIAS**  
-Yeah, this is _way_ smoother than the others. This is *really* nice. I'll let some of the other people behind me try it out.
+Yeah, this is _way_ smoother than the others. I'll let some of the other people behind me try it out.
 
 (Elias looks behind his shoulders and sees Emma)
 Oh hey, Emma! You gotta try this out. (hands Emma the headset)
@@ -106,18 +91,17 @@ Why not? Do you want to come over to my apartment tonight? I'm working on a prot
 Yeah, I'm down. I'm free around 7:30.
 
 .EXT - ELIAS' APARTMENT - NIGHT (7:30 PM)
-Elias welcomes Emma in the door. Elias opens up his Terminal on his computer and navigates to his project folder. 
-He then plugs in his Meta Quest VR headset and compiles his project.
+Elias welcomes Emma in the door. Elias opens compiles his OS, plugging in his Quest VR, ready to show Emma. 
 
 @**ELIAS**
 Here, try this. To put this in perspective, this is the Meta Quest 2, which is 7 year-old hardware.
 
 @**EMMA**
-Elias, this is nuts! How'd you do this? The speed is just incredible and the animations are done even better than what we saw.
+Elias, this is nuts! How'd you do this? The speed is just...incredible!
 (takes off the headset)
 
 @**ELIAS**
-(laughs) Thanks, I mean it's still pretty elementary at this stage, but it should run just as well on stable release.
+(laughs) Thanks, I mean it's still pretty elementarsy at this stage.
 
 @**EMMA**
 Imagine if you paired this with the RISC-V chip that I'm developing right now! I think we should maybe pitch our idea to the investors!
@@ -236,19 +220,13 @@ We built something revolutionary. But we won’t sell out innovation for profit.
 
 Suddenly, the screen behind them glitches. The AR glasses flicker wildly. Gasps from the audience.
 
-Emma’s eyes widen—sabotage.
-
-Quick thinking, Elias drops to his laptop, typing frantically. Lines of code scroll rapidly. Emma steadies the glasses, overriding the interference.
-
-Within seconds, the AR display stabilizes. The audience erupts into applause.
+Emma's eyes widen. "Sabotage!", Emma murmurs to Elias. Quick thinking, Elias drops to his laptop, typing frantically. Lines of code scroll rapidly. Emma steadies the glasses, overriding the interference. Within seconds, the AR display stabilizes. The audience erupts into applause.
 
 .INT - BOARDROOM - FINAL SHOWDOWN
 
 Trevor smirks at the chaos of the failed demo, preparing to capitalize on their failure. But then—
 
-A leaked email thread flashes onto the screen behind him, proving Trevor orchestrated the sabotage.
-
-The room turns against him. Murmurs of outrage ripple through the investors.
+A leaked email thread flashes onto the screen behind him, proving Trevor orchestrated the sabotage. In a sudden shift, the room turns against him...murmurs of outrage plastered
 
 @**TREVOR**
 (eyes narrowing)
@@ -296,4 +274,6 @@ FADE TO BLACK.
 
 
 
-/* If you're seeing this, you can remove the following stuff - BEAT: {"Review Ranges":[],"Window Width":2548,"Caret Position":1075,"Heading UUIDs":[{"string":".INT - UCLA FOWLER RM. A139 LECTURE HALL - DAY","uuid":"360692E3-1FF9-45A5-9FE5-44C0322CF0B1"},{"string":".INT - ENGINEERING IV BUILDING - EVENING  ","uuid":"F2537B0F-0770-474A-85BB-F932DBB4BD4D"},{"string":".INT - CAVA RESTAURANT - NOON (12 P.M.)","uuid":"3D9218CF-EE93-4023-B2B6-D586BCE0E3DD"},{"string":".EXT - CAVA RESTAURANT - CONTINUOUS","uuid":"2083A4D8-EE7E-4CCC-B0C0-52D61E9A1987"},{"string":".EXT - ELIAS' APARTMENT - NIGHT (7:30 PM)","uuid":"4A2931E5-5947-4F90-94FC-73C08BDFC3E0"},{"string":".INT - ESPRESSOTERIC CAFE - NIGHT","uuid":"40DF8266-DBED-4992-8FB0-46ACACF6D9FE"},{"string":".MONTAGE - ELIAS AND EMMA WORKING","uuid":"A2D3B877-D6C1-4444-96CF-6F9B62D9C719"},{"string":".INT - OVERLAY_AR GARAGE OFFICE - EVENING","uuid":"64A732C3-B186-434B-B491-3B1340F574C9"},{"string":".INT - INVESTOR MEETING ROOM - NIGHT","uuid":"AB6DD80E-4615-46D5-BFF9-5611C9144EA3"},{"string":".INT - OVERLAY_AR GARAGE OFFICE - NIGHT","uuid":"DFD480F6-0653-4345-BC4F-B730A57372D7"},{"string":".INT - TECH CONFERENCE - MAIN STAGE - NIGHT","uuid":"F3F26BAB-F426-4408-A269-FCAFC7B1381A"},{"string":".INT - BOARDROOM - FINAL SHOWDOWN","uuid":"56B3B8C7-A337-4486-B5A3-C693B2686173"},{"string":".EXT - SAWTELLE BOULEVARD - EVENING","uuid":"E60A4C30-7162-48A5-8C5E-6DE7FF3738C7"}],"Sidebar Visible":false,"Revision":{"Removed":[],"RemovalSuggestion":[],"Addition":[]},"Active Plugins":[],"Revision Level":0,"Window Height":1389} END_BEAT */
+
+
+/* If you're seeing this, you can remove the following stuff - BEAT: {"Review Ranges":[],"Window Width":2548,"Caret Position":3304,"Heading UUIDs":[{"string":".INT - UCLA FOWLER RM. A139 LECTURE HALL - DAY","uuid":"360692E3-1FF9-45A5-9FE5-44C0322CF0B1"},{"string":".INT - ENGINEERING IV BUILDING - EVENING  ","uuid":"F2537B0F-0770-474A-85BB-F932DBB4BD4D"},{"string":".INT - CAVA RESTAURANT - NOON (12 P.M.)","uuid":"3D9218CF-EE93-4023-B2B6-D586BCE0E3DD"},{"string":".EXT - CAVA RESTAURANT - CONTINUOUS","uuid":"2083A4D8-EE7E-4CCC-B0C0-52D61E9A1987"},{"string":".EXT - ELIAS' APARTMENT - NIGHT (7:30 PM)","uuid":"4A2931E5-5947-4F90-94FC-73C08BDFC3E0"},{"string":".INT - ESPRESSOTERIC CAFE - NIGHT","uuid":"40DF8266-DBED-4992-8FB0-46ACACF6D9FE"},{"string":".MONTAGE - ELIAS AND EMMA WORKING","uuid":"A2D3B877-D6C1-4444-96CF-6F9B62D9C719"},{"string":".INT - OVERLAY_AR GARAGE OFFICE - EVENING","uuid":"64A732C3-B186-434B-B491-3B1340F574C9"},{"string":".INT - INVESTOR MEETING ROOM - NIGHT","uuid":"AB6DD80E-4615-46D5-BFF9-5611C9144EA3"},{"string":".INT - OVERLAY_AR GARAGE OFFICE - NIGHT","uuid":"DFD480F6-0653-4345-BC4F-B730A57372D7"},{"string":".INT - TECH CONFERENCE - MAIN STAGE - NIGHT","uuid":"F3F26BAB-F426-4408-A269-FCAFC7B1381A"},{"string":".INT - BOARDROOM - FINAL SHOWDOWN","uuid":"56B3B8C7-A337-4486-B5A3-C693B2686173"},{"string":".EXT - SAWTELLE BOULEVARD - EVENING","uuid":"E60A4C30-7162-48A5-8C5E-6DE7FF3738C7"}],"Sidebar Visible":false,"Revision":{"Removed":[],"RemovalSuggestion":[],"Addition":[]},"Active Plugins":[],"Revision Level":0,"Window Height":1389} END_BEAT */
